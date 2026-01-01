@@ -39,7 +39,7 @@ const projects = [
         impact: "Empowered local artisans to reach customers worldwide, increasing sales potential.",
         stack: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
         color: "from-orange-500 to-amber-500",
-        links: { github: "https://github.com/RajnandanPrasad/CraftVistaar", live: "https://craft-vistaar-gllbl1j95-rajnandan-prasads-projects.vercel.app/" },
+        links: { github: "https://github.com/RajnandanPrasad/CraftVistaar", live: "https://craft-vistaar.vercel.app/" },
         image: "/projects/ecommerce-cart.png"
     }
 ];
